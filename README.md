@@ -12,13 +12,13 @@
 ║                                                                  ║
 ║  [ PROJECT STATUS ]                                              ║
 ║                                                                  ║
-║  🚁 ESP32 Drone                                                  ║
+║   ESP32 Drone                                                    ║
 ║     ├─ Flight Controller       [ TESTING ]                       ║
 ║     ├─ PID Stabilization       [ TESTING ]                       ║
 ║     ├─ IMU / GPS               [ WORKING ]                       ║
 ║     └─ Real-world Flight      [ IN PROGRESS ]                    ║
 ║                                                                  ║
-║  ⚙️ FixedPID                                                     ║
+║   FixedPID                                                       ║
 ║     ├─ Integer PID             [ WORKING ]                       ║
 ║     ├─ Automated Tests         [ ACTIVE ]                        ║
 ║     ├─ v0.2.x                  [ VALIDATING ]                    ║
